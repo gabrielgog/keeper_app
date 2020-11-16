@@ -1,24 +1,20 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+import App from './components/App'
 import Header from './components/Header'
-import Note from './components/Note'
 import Footer from './components/Footer'
-
-
-
-
-
+import Something from './components/something'
 
 ReactDOM.render(
     <div>
             <Header />
 
-            <Note />
-
+         <App />
 
          <Footer />
 
- 
+	
+
 
     </div>,
    
@@ -26,4 +22,3 @@ ReactDOM.render(
 
 
 )
-
