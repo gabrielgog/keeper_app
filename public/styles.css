@@ -53,3 +53,13 @@ footer{
     width: 100%;
     bottom: 0;
 }
+
+.card-d img{
+    border-style: ridge;
+    border-radius: 20%;
+    background-color: cornflowerblue;
+}
+
+.card-d img:hover{
+    background-color: red;
+}
