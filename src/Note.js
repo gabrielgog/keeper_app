@@ -29,4 +29,4 @@ const note = [
     }
 ]
 
-export default notes;
+export default note;
